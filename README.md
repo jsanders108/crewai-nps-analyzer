@@ -171,6 +171,6 @@ For the complete analysis and recommendations, please refer to the `report.md` f
 
 ## Conclusion
 
-Through this project, I've provided a compelling example of how CrewAI can be leveraged to streamline and enhance the NPS analysis process. By automating the tedious tasks of response analysis and report generation, researchers can focus their efforts on deeper interpretation and strategy development.
+Through this project, I've provided a compelling example of how CrewAI can be leveraged to streamline and enhance the qualitative data analysis process. By automating the tedious tasks of response analysis and report generation, researchers can focus their efforts on deeper interpretation and strategy development.
 
-The modular nature of the CrewAI framework allows for easy adaptation to various research scenarios, making it a valuable tool for any organization looking to gain deeper insights from NPS data more efficiently. This approach can significantly reduce the time and effort required to transform raw survey data into actionable business intelligence, ultimately driving improvements in customer satisfaction and loyalty.
+The modular nature of the CrewAI framework allows for easy adaptation to various research scenarios, making it a valuable tool for any organization looking to gain deeper insights from qualitative survey data more efficiently. While this project focused on NPS data, the approach can be applied to a wide range of open-ended survey responses. This versatility can significantly reduce the time and effort required to transform raw qualitative data into actionable business intelligence, ultimately driving improvements in customer understanding, product development, and overall business strategy.
