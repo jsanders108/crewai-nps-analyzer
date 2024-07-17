@@ -29,7 +29,7 @@ I centered the mock NPS survey around the following key objectives:
 3. Assess Mid-range Feedback
 4. Develop an Action Plan
 
-For more detail, please visit the `nps_analysis_objectives.md` file. This document outlines the context of the survey and the specific insights I aimed to extract from the data.
+For more detail, please view the `nps_analysis_objectives.md` file in the repository. This document outlines the context of the survey and the specific insights I aimed to extract from the data.
 
 ## Code Walkthrough
 
