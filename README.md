@@ -14,7 +14,7 @@ By achieving these objectives, I illustrate how CrewAI can significantly enhance
 
 ## NPS Survey Background
 
-For this project, I used mock NPS survey data for a film budgeting software program targeting Production Accountants. The survey was designed to gauge initial customer satisfaction and identify areas for improvement following the software's launch.
+For this project, I created a hypothetical scenario involving a fictional film budgeting software program targeting Production Accountants. Next, using AI (Claude 3.5 Sonnet), I generated mock NPS survey data for this imaginary product. 
 
 The survey structure contained two core NPS questions:
 1. Likelihood to recommend (0-10 scale)
