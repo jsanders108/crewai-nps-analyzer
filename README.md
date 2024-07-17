@@ -20,8 +20,6 @@ The survey structure contained two core NPS questions:
 1. Likelihood to recommend (0-10 scale)
 2. Reasons for the given rating
 
-I included the survey objectives and background information in the `nps_analysis_objectives.md` file. This document outlines the context of the survey and the specific insights I aimed to extract from the data.
-
 ### Survey Objectives
 
 I centered the mock NPS survey around the following key objectives:
@@ -31,7 +29,7 @@ I centered the mock NPS survey around the following key objectives:
 3. Assess Mid-range Feedback
 4. Develop an Action Plan
 
-The mock NPS survey responses contain feedback from customers based on these objectives, simulating the kind of qualitative data that market researchers often need to analyze quickly and effectively.
+For more detail, please visit the `nps_analysis_objectives.md` file. This document outlines the context of the survey and the specific insights I aimed to extract from the data.
 
 ## Code Walkthrough
 
