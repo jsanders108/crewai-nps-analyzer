@@ -128,7 +128,7 @@ This simple script creates an instance of the `NpsAnalyzerCrew` and initiates th
 
 ## Output Showcase
 
-The culmination of the AI agents' work is a comprehensive markdown report (`report.md`) that provides valuable insights from the NPS survey. Here are the key highlights from the analysis:
+The culmination of the AI agents' work is a comprehensive markdown report (`report.md`) that provides valuable insights from the NPS questions. Here are the key highlights from the analysis:
 
 ### Executive Summary
 
